@@ -49,7 +49,7 @@ $ cd PokemonWeather
 <h1>
   <img width="1080px" height="500px" src="src/images/passos.gif">
 </h1>
-
+Obs: Precisa colocar a acentuação(por exemplo = "Tóquio").
 
 <h3>
   <a href="https://brunoips.github.io/PokemonWeather/">Acessar a demonstração.</a>
