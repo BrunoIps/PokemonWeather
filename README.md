@@ -47,8 +47,9 @@ $ cd PokemonWeather
 ## 🎈 Modo de Uso <a name = "usage"></a>
 
 <h1>
-  <img src="https://im7.ezgif.com/tmp/ezgif-7-24a2d7d0c2b8.gif">
+  <img width="1080px" height="500px" src="src/images/passos.gif">
 </h1>
+
 
 <h3>
   <a href="https://brunoips.github.io/PokemonWeather/">Acessar a demonstração.</a>
