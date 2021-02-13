@@ -1,0 +1,45 @@
+Proposta:
+  -criar uma aplicação web que você possa pesquisar a temperatura de uma cidade qualquer no mundo, 
+  consumindo a API "OpenWeatherMap" e de acordo com a temperatura e as condições climáticas do local 
+  consumir a API "PokeApi" para mostrar diferentes tipos de Pokémon.
+  -Data de inicio do Projeto: 08/02/2021
+  -Data de término: 12/02/2021
+
+Tecnlogias Utilizadas:
+  -Google Fonts (Foi utilizado para estilizar as fontes do programa);
+  -Bootstrap (O Bootstrap foi utilizado para colocar um botão no programa);
+  -API's:
+    -OpenWeatherMap(API que tras as informações de temperatura das cidades);
+    -PokeApi (API que tras o nome e as imagens dos Pokemons);
+  -Linguagens utilizadas
+    -HTML5
+    -CSS
+    -JavaScript
+  
+
+  1. Introdução
+      Desafio Pokémon para Desenvolvedores, onde a proposta é criar uma aplicação web que você possa 
+    pesquisar a temperatura de uma cidade qualquer no mundo, consumindo a API "OpenWeatherMap" e de 
+    acordo com a temperatura e as condições climáticas do local consumir a API "PokeApi" para mostrar 
+    diferentes tipos de Pokémon.
+
+  1.1 Metodologia de Trabalho e de Desenvolvimento do Software
+    Um projeto desenvolvido usando as tecnologias: HTML, CSS, JavaScript e Bootstrap. Esse projeto faz o consumo 
+    de duas API's: OpenWeatherMap e PokéApi, com o intuito de pesquisar qualquer cidade do mundo para descobrir as condições climáticas atual do local 
+    e mostrar um pokémon (de diferentes tipos) de acordo com o clima do local.
+
+  1.2 Primeiros passos
+
+    Para uso na máquina local, baixar o projeto em formato zip no link "https://github.com/BrunoIps/PokemonWeathers". 
+
+  2. Modo de Uso 
+
+    1- Baixar o projeto 
+    2- Descompactar o arquivo zip 
+    3- Abrir o arquivo index.html em um navegador (de preferência o Google Chrome) 
+    4- No campo para digitação, colocar o nome de uma cidade, respeitando as acentuações e clicar no botão "Procurar" ou apertar a tecla Enter. 
+    5- Você pode mudar a linguagem da página clicando no botão "PT" ou "EN" 
+
+    ---
+
+    Outra forma é acessando o link  https://brunoips.github.io/PokemonWeathers/  e seguir as instruções a partir do passo 4 acima.

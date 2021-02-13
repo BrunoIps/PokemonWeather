@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Pokemon Weather</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="src/css/styles.css">
+
+  <!-- BootStrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <!-- icon -->
+  <link rel="icon" href="src/images/pokemon.ico">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&amp;family=Montserrat:ital,wght@0,200;0,900;1,200&amp;family=Ubuntu:ital,wght@1,300&amp;display=swap" rel="stylesheet">
+
+</head>
+<body>
+  <div class="app">
+    <div class="inputs">
+      <input type="text" placeholder="Procure por uma cidade" autocomplete="off" class="city-box input-box" id="campo">
+      <button type="button" class="btn btn-outline-dark" id="button">Procurar</button>
+      <button type="button" class="btn btn-outline-dark" id="ptbr-en">PT</button>
+    </div>
+    <div class="main">
+      <section class="location">
+        <div class="city"> </div>
+        <div class="date"> </div>
+      </section>
+      <div class="current">
+        <div class="temp"></div>
+        <div class="weather"></div>
+        <div class="hi-low"></div>
+        <div class="pokemon"></div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="src/js/main.js"></script>
+</body>
+</html>
